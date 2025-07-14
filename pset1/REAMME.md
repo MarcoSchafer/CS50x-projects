@@ -1,1 +1,1 @@
-# Problem Set 1 of Harvard CS50x
+# Problem Set 1 - CS50x by Harvard University

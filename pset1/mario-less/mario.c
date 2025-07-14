@@ -25,7 +25,7 @@ int main (void)
         {
             printf("#");
         }
-        //New line
+        //Print New line
         printf("\n");
     }
 
