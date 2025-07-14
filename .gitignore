@@ -1,2 +1,9 @@
 .vscode/
+
 *.exe
+*.o
+*.out
+
+.DS_Store
+
+*~
