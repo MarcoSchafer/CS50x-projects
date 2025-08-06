@@ -3,10 +3,6 @@
 #include <stdbool.h>
 #include <ctype.h>
 
-    /*  TO DO:
-                Do not count invalid vote as a vote (vote_count)
-    */ 
-
 // Define maximum number of canidates
 #define MAX 9
 
