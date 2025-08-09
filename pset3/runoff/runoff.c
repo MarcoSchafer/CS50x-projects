@@ -90,7 +90,7 @@ int main(int argc, char *argv[])
                 }
                 else
                 {
-                    printf("Invalid vote\n");      // only increment on valid votes
+                    printf("Invalid vote\n");      
                 }
             }
         }
